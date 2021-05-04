@@ -180,7 +180,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tunk: {fileID: 3218857926522794068}
   animator: {fileID: 3218857926522794070}
-  attackSpeed: 3
+  attackSpeed: 2
   hp: 1
 --- !u!114 &3218857926522794075
 MonoBehaviour:
