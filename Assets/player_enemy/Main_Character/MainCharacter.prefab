@@ -33,12 +33,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 4419736675547683612}
   speed: 10
-  jumpForce: 7
+  jumpForce: 200
   feetpos: {fileID: 453556931459432410}
   sword: {fileID: 453556931789359582}
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 256
   checkRadius: 0.3
   hp: 10
 --- !u!68 &4419736675142228422
@@ -142,11 +142,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  jumpForce: 7
+  jumpForce: 200
   feetpos: {fileID: 453556931459432410}
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 256
   checkRadius: 0.3
 --- !u!1001 &4419736674221499831
 PrefabInstance:

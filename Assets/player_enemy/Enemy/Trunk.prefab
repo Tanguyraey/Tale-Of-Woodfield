@@ -110,6 +110,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -131,8 +132,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -291332893
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: -5219337101871392587, guid: bf4df7b2c9cda4c44b372e2b47a5cb8f,
     type: 3}
@@ -179,8 +180,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tunk: {fileID: 3218857926522794068}
   animator: {fileID: 3218857926522794070}
-  attackSpeed: 2
-  hp: 10
+  attackSpeed: 3
+  hp: 1
 --- !u!114 &3218857926522794075
 MonoBehaviour:
   m_ObjectHideFlags: 0
