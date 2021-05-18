@@ -42,6 +42,7 @@
      <Compile Include="Assets\Free_Pack\Demo_GameResource\Script\Demo_GM.cs" />
      <Compile Include="Assets\Free_Pack\Demo_GameResource\Script\DestroyEffect.cs" />
      <Compile Include="Assets\Free_Pack\Demo_GameResource\Script\WoodDoll_Mgr.cs" />
+     <Compile Include="Assets\Scenes\LevelTransition.cs" />
      <None Include="Assets\Pixel Art Icon Pack - RPG\Shader\SH UI Icon Outline Color.shader" />
      <None Include="Assets\Pixel Art Icon Pack - RPG\Shader\SH Sprite Icon Outline Color.shader" />
     <Reference Include="UnityEngine">
