@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Default Brush
   m_EditorClassIdentifier: 
   m_Cells:
-  - m_Tile: {fileID: 11400000, guid: 86c68116392e446459dd8369f7a2e6c7, type: 2}
+  - m_Tile: {fileID: 11400000, guid: 49eab8a86643b8d49bf00b269da8caba, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -35,3 +35,4 @@ MonoBehaviour:
   m_Size: {x: 1, y: 1, z: 1}
   m_Pivot: {x: 0, y: 0, z: 0}
   m_CanChangeZPosition: 0
+  m_FloodFillContiguousOnly: 1

@@ -29,6 +29,8 @@ public class swordScript : MonoBehaviour
             Info.GetComponent<ghostScript>().takeDamage();
         if (Info.name == "Slime")
             Info.GetComponent<slimeScript1>().takeDamage();
+        if (Info.name == "Pig")
+            Info.GetComponent<pigScript>().takeDamage();
     }
     void Start()
     {

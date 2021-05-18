@@ -35,10 +35,11 @@ public class tunkScript : MonoBehaviour
     {
         timer += Time.deltaTime;
 
-        if (timer > attackSpeed) 
+        if (timer > attackSpeed){ 
             animator.SetTrigger("attack");
             isShooting = true;
-            
+            timer = 0;
+        }
  
         if (hp == 0)
         {
